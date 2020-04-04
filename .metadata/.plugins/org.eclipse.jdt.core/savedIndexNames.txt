@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Ciclo 5\Fundamentos de Arquitectura\Lab 1 y 2\.metadata\.plugins\org.eclipse.jdt.core
+2838195538.index
+2446198141.index
+2852990108.index
